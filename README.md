@@ -6,6 +6,7 @@ Feel free to download the notebook and input your own Spotify API credential and
 <br><br>
 To set up the environment, install these libraries using pip:
 ```python
-pip install pandas matplotlib seaborn numpy plotly
+pip install pandas matplotlib seaborn numpy plotly scikit-learn
+
 
 
